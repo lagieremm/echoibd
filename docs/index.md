@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Bienvenue sur EchoIbd
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ceci est un prototype de site, pour consulter le véritable site rendez vous sur  [echoidb.org](https://echoibd.org/).
+Pour vous inspirer et apprendre la construction Markdown consultez la page [markdown cheat sheet](markdown_cheatsheet.md)
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

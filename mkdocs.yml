@@ -1,5 +1,10 @@
-site_name: echoibd
+site_name: EchoIbd
 site_url: https://lagieremm.github.io/echoibd/
-
 theme:
   name: material
+  language: fr
+markdown_extensions:
+  - plantuml_markdown:
+      servers:                                  # Servers to use for remote rendering, tried in order
+        - url: https://www.plantuml.com/plantuml 
+          kroki: False
