@@ -1,0 +1,5 @@
+site_name: echoibd
+site_url: https://lagieremm.github.io/echoibd/
+
+theme:
+  name: material
